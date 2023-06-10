@@ -105,7 +105,7 @@ int main() {
         else if (menu == 'd') {
             DListNode* prev = goPrev(current, List);
             ddelete(current);
-            current = prev;
+            current = prev->rlink;
         }
         else if (menu == 'i') {
             char fruit[100];
