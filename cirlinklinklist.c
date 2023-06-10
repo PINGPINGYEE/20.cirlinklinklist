@@ -87,7 +87,7 @@ int main() {
         printf("(p) Previous Fruit\n");
         printf("(d) Delete the current fruit\n");
         printf("(i) Insert fruit after current fruit\n");
-        printf("(o) Output the fruit list(Output [O] at end of currently selected fruit\n");
+        printf("(o) Output the fruit list(Output [O] at end of currently selected fruit)\n");
         printf("(e) Exit the program\n");
         printf("============\n");
         printf("Select a menu : ");
